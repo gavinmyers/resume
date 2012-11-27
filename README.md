@@ -1,6 +1,5 @@
+<h1>Gavin Myers</h1>
 <pre>
-########################################################################
-Gavin Myers
 8474 Norway St NW
 Coon Rapids, MN 55433
 (651) 747 1181
@@ -9,8 +8,9 @@ blog: http://gavinm.com
 github: http://github.com/gavinmyers
 resume: http://gavinm.com/resume.doc
 text resume: http://gavinm.com/resume.txt
+</pre>
 
-Interests & Experience
+<h2>Interests & Experience</h2>
 
 For the last twelve years I have worked with dozens of companies in the 
 Twin Cities area (see last page for consulting projects) on a wide array 
@@ -18,44 +18,44 @@ of web and non-web projects. I've spent the majority of this time
 working in Java but I have also worked in several other languages 
 including CoffeeScript, C#, Cold Fusion, PHP, ASP , ActionScript, VB, 
 XSL and many more.   
-  
+<p/>    
 I consider myself a â€œfull stackâ€ developer; I have built many projects 
 from the ground up (from server install to initial database design to 
 back and front end implementation). I primarily use VIM for development 
 and my distro of choice is crunchbang. The technologies I am most 
 interested at the time are nodejs, redis, coffeescript, nginx, groovy 
 and grails.  
-  
+<p/>  
 My ideal position would include 25% development time and 75% 
 management/leadership. I have experience managing up to five developers 
 (not including offshore) and would be interested in extending this 
 experience farther.
 
-Work History
-2012: Working on a product distribution application written in 
+<h2>Work History</h2>
+* 2012: Working on a product distribution application written in 
   Java / Spring / Oracle
-2011: Working on migrating an existing system from Tiles/Struts to 
+* 2011: Working on migrating an existing system from Tiles/Struts to 
 	Spring MVC/YUI
-2011: Working on a custom LMS system designed in Grails/JQuery
-2011: Completed a touch screen / locker storage unit written in 
+* 2011: Working on a custom LMS system designed in Grails/JQuery
+* 2011: Completed a touch screen / locker storage unit written in 
 	Java/JQuery
-2010: Completed work on an assessment/development management application 
+* 2010: Completed work on an assessment/development management application 
 	written in Flex/Java/Hibernate/Spring
-2009: Completed work on a technician dispatching system written in 
+* 2009: Completed work on a technician dispatching system written in 
 	WPF / .NET 3.5
-2008: Completed work on a workflow management application written in 
+* 2008: Completed work on a workflow management application written in 
 	Adobe Air
-2008: Completed development of a SSH application written in 
+* 2008: Completed development of a SSH application written in 
 	C# / .NET 2.0
-2008: Completed prototype of a WPF based pharmacy application
-2008: Completed development on job application kiosk written in 
+* 2008: Completed prototype of a WPF based pharmacy application
+* 2008: Completed development on job application kiosk written in 
 	JSP / Java
-2007: Completed development of building maintenance touch screen written 
+* 2007: Completed development of building maintenance touch screen written 
 	in Ajax/Flash/DHTML/C++
 
-Employment History
+<h2>Employment History</h2>
 
-UTrain.us ~ Owner/Architect July 2011- Present
+<h3>UTrain.us ~ Owner/Architect July 2011- Present</h3>
 	Roles:
 	Complete system design and implementation
 
@@ -67,7 +67,7 @@ UTrain.us ~ Owner/Architect July 2011- Present
 	businesses.
 
 
-Quantum Retail ~ Sr Software Developer June 2012 - Present
+<h3>Quantum Retail ~ Sr Software Developer June 2012 - Present</h3>
 
 	Roles:
 	Implementing functionality (user interface and backend)
@@ -76,7 +76,7 @@ Quantum Retail ~ Sr Software Developer June 2012 - Present
 	Technologies:
 	Java, Spring, Oracle, bash, linux, git
 
-Wells Fargo  ~ Lead Developer July 2011- June 2012
+<h3>Wells Fargo  ~ Lead Developer July 2011- June 2012</h3>
 
 
 	Roles:
@@ -96,7 +96,7 @@ Wells Fargo  ~ Lead Developer July 2011- June 2012
 	This is an 18 month contract to overhaul an existing application 
 	(Struts/Tiles) into new technologies (Spring MVC, YUI).
 
-PDI ~ Technical Architect / Team Lead January 2009 â€“ July 2011
+<h3>PDI ~ Technical Architect / Team Lead January 2009 - July 2011</h3>
 
 	Roles:
 	Implementing functionality (user interface and backend)
@@ -126,7 +126,7 @@ PDI ~ Technical Architect / Team Lead January 2009 â€“ July 2011
 
 
 
-Factor_UE ~ Technical Architect November 2006 â€“ November 2008
+<h3>Factor_UE ~ Technical Architect November 2006 - November 2008</h3>
 
 
 	Roles:
@@ -147,7 +147,7 @@ Factor_UE ~ Technical Architect November 2006 â€“ November 2008
 	Desktop Application (.NET 2.0, C#)
 
 
-Questar ~ Senior Developer October 2005 â€“ November 2006
+<h3>Questar ~ Senior Developer October 2005 - November 2006</h3>
 	
 	Roles:
 	Bug Fixing / Existing System Maintenance
@@ -166,7 +166,7 @@ Questar ~ Senior Developer October 2005 â€“ November 2006
 
 
 
-US Corporate Services ~ Senior Developer April 2003 â€“ October 2005
+<h3>US Corporate Services ~ Senior Developer April 2003 - October 2005</h3>
 
 	Roles:
 	Implementing functionality (user interface and backend)
@@ -184,7 +184,7 @@ US Corporate Services ~ Senior Developer April 2003 â€“ October 2005
 	enhancing their primary customer service application suite.
 
 
-Yatra.net ~ Web Developer / Designer January 2001 â€“ March 2003
+<h3>Yatra.net ~ Web Developer / Designer January 2001 - March 2003</h3>
 
 	Roles:
 	Bug Fixing / Existing System Maintenance
@@ -198,7 +198,7 @@ Yatra.net ~ Web Developer / Designer January 2001 â€“ March 2003
 	booking website.
 
 
-Lightning Rod Software ~ Web Developer / Designer July 2000  â€“ January 2001
+<h3>Lightning Rod Software ~ Web Developer / Designer July 2000  - January 2001</h3>
 
 	Roles:
 	Implementing functionality (user interface and backend)
@@ -210,7 +210,7 @@ Lightning Rod Software ~ Web Developer / Designer July 2000  â€“ January 20
 	Designed the Lightning Rod Software website
 
 
-Access Cash ~ Web Developer / Designer August 1998  â€“ June 2000
+<h3>Access Cash ~ Web Developer / Designer August 1998  - June 2000</h3>
 
 	Roles:
 	Implementing functionality (user interface and backend)
@@ -225,46 +225,43 @@ Access Cash ~ Web Developer / Designer August 1998  â€“ June 2000
 
 
 
-Consulting, Part-Time Positions & Volunteer Work
-
-Last Call
-	Java, JQuery
-
-Rollouts
-	Cold  Fusion, ASP, MS SQL, ASP.NET, WPF, WCF, XAML
-
-
-Secure Tunnel
-	C#, Flex, .NET 2.0
-
-
-Knutson Construction
-	Cold Fusion, ASP, MS SQL
-
-
-North Hennepin Community College  -  Career Continuing Education
-	(Teaching) Illustrator, Photoshop, HTML, CSS, Flash, 
-	Web Design Fundamentals, Dreamweaver, Usability
-
-
-MCTC  -  Career Continuing Education
-	(Teaching) Illustrator, Photoshop, HTML, CSS, Flash, 
-	Web Design Fundamentals, Dreamweaver, Usability
-
-
-Additional companies: 
-Target, Trane, Carlson Wagonlit, Carmichael Lynch, 
-Dashe & Thomson, Fisher Clinical Services, Meteorlogix, Pacer, CSC, 
-Benchmark QA, Blue Cross and Blue Shield of Minnesota, GE, 
-Wireless Ronin, Zip Express, AlivePromo, and IACA
+<h2>Consulting, Part-Time Positions & Volunteer Work</h2>
+	
+	Last Call
+		Java, JQuery
+	
+	Rollouts
+		Cold  Fusion, ASP, MS SQL, ASP.NET, WPF, WCF, XAML
+	
+	
+	Secure Tunnel
+		C#, Flex, .NET 2.0
+	
+	
+	Knutson Construction
+		Cold Fusion, ASP, MS SQL
+	
+	
+	North Hennepin Community College  -  Career Continuing Education
+		(Teaching) Illustrator, Photoshop, HTML, CSS, Flash, 
+		Web Design Fundamentals, Dreamweaver, Usability
+	
+	
+	MCTC  -  Career Continuing Education
+		(Teaching) Illustrator, Photoshop, HTML, CSS, Flash, 
+		Web Design Fundamentals, Dreamweaver, Usability
 
 
-Education
+<h2>Additional companies: </h2>
+	Target, Trane, Carlson Wagonlit, Carmichael Lynch, 
+	Dashe & Thomson, Fisher Clinical Services, Meteorlogix, Pacer, CSC, 
+	Benchmark QA, Blue Cross and Blue Shield of Minnesota, GE, 
+	Wireless Ronin, Zip Express, AlivePromo, and IACA
 
-Globe College September 1999 â€“ September 2002
-	Degree:
-	Multimedia / Computer Graphics Diploma
-	GPA: 3.64
 
-########################################################################
-</pre>
+<h2>Education</h2>
+	
+	Globe College September 1999 â€“ September 2002
+		Degree:
+		Multimedia / Computer Graphics Diploma
+		GPA: 3.64
