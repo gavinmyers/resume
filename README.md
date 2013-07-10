@@ -15,12 +15,12 @@ text resume: http://gavinm.com/resume.txt
 <p>I'm a programmer who has worked in the Twin Cities area for over twelve years with dozens of companies 
 on a variety of projects and technologies.
 
-<p>Most of my experience is in Java but I have also have experience with Groovy, Grails, Clojure,
+<p>My core experience is with Java and I have experience with Groovy, Grails, Clojure,
 the Microsoft stack (C#/WPF/XAML), Redis, CoffeeScript, NodeJS, PHP, ActionScript/Flex, 
 Cold Fusion, Python and more.
 
 <p>I'm a 'full stack' programmer with experience building web applications from the ground up,
-this includes vps setup, database design, application design, implementation, build execution and deployment.
+this includes vps setup, database design, application design, UI design, implementation, build execution and deployment.
 
 <p> I primarily use VIM for development and my distro of choice was crunchbang but I'm getting used to the latest
 iteration of Gnome. The technologies I am most 
