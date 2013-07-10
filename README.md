@@ -19,7 +19,7 @@ working in Java but I have also worked in several other languages
 including CoffeeScript, C#, Cold Fusion, PHP, ASP , ActionScript, VB, 
 XSL and many more.   
 <p/>    
-I consider myself a â€œfull stackâ€ developer; I have built many projects 
+I consider myself a 'full stack' developer; I have built many projects 
 from the ground up (from server install to initial database design to 
 back and front end implementation). I primarily use VIM for development 
 and my distro of choice is crunchbang. The technologies I am most 
