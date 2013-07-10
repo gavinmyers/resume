@@ -12,21 +12,22 @@ text resume: http://gavinm.com/resume.txt
 
 <h2>Interests & Experience</h2>
 
-For the last twelve years I have worked with dozens of companies in the 
-Twin Cities area (see last page for consulting projects) on a wide array 
-of web and non-web projects. I've spent the majority of this time 
-working in Java but I have also worked in several other languages 
-including CoffeeScript, C#, Cold Fusion, PHP, ASP , ActionScript, VB, 
-XSL and many more.   
-<p/>    
-I consider myself a 'full stack' developer; I have built many projects 
-from the ground up (from server install to initial database design to 
-back and front end implementation). I primarily use VIM for development 
-and my distro of choice is crunchbang. The technologies I am most 
-interested at the time are nodejs, redis, coffeescript, nginx, groovy 
+<p>I'm a programmer who has worked in the Twin Cities area for over twelve years with dozens of companies 
+on a variety of projects and technologies.
+
+<p>Most of my experience is in Java but I have also have experience with Groovy, Grails, Clojure,
+the Microsoft stack (C#/WPF/XAML), Redis, CoffeeScript, NodeJS, PHP, ActionScript/Flex, 
+Cold Fusion, Python and more.
+
+<p>I'm a 'full stack' programmer with experience building web applications from the ground up,
+this includes vps setup, database design, application design, implementation, build execution and deployment.
+
+<p> I primarily use VIM for development and my distro of choice was crunchbang but I'm getting used to the latest
+iteration of Gnome. The technologies I am most 
+interested in are python, clojure, go, nodejs, redis, coffeescript, nginx, groovy 
 and grails.  
-<p/>  
-My ideal position would include 25% development time and 75% 
+
+<p>My ideal position would include 25% development time and 75% 
 management/leadership. I have experience managing up to five developers 
 (not including offshore) and would be interested in extending this 
 experience farther.
