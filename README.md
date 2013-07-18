@@ -22,8 +22,8 @@ Cold Fusion, Python and more.
 <p>I'm a 'full stack' programmer with experience building web applications from the ground up,
 this includes vps setup, database design, application design, UI design, implementation, build execution and deployment.
 
-<p> I primarily use VIM for development and my distro of choice was crunchbang but I'm getting used to the latest
-iteration of Gnome. The technologies I am most 
+<p> I primarily use VIM for development and my distro of choice was crunchbang (Openbox!) but I'm getting used to the latest
+iteration of Gnome & Ubuntu 13.04. The technologies I am most 
 interested in are python, clojure, go, nodejs, redis, coffeescript, nginx, groovy 
 and grails.  
 
