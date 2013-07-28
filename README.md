@@ -12,30 +12,26 @@ text resume: http://gavinm.com/resume.txt
 
 <h2>Interests & Experience</h2>
 
-<p>I'm a programmer who has worked in the Twin Cities area for over twelve years with dozens of companies 
-on a variety of projects and technologies.
-
-<p>My core experience is with Java and I have experience with Groovy, Grails, Clojure,
-the Microsoft stack (C#/WPF/XAML), Redis, CoffeeScript, NodeJS, PHP, ActionScript/Flex, 
-Cold Fusion, Python and more.
-
-<p>I'm a 'full stack' programmer with experience building web applications from the ground up,
-this includes vps setup, database design, application design, UI design, implementation, build execution and deployment.
-
-<p> I primarily use VIM for development and my distro of choice was crunchbang (Openbox!) but I'm getting used to the latest
-iteration of Gnome & Ubuntu 13.04. The technologies I am most 
-interested in are python, clojure, go, nodejs, redis, coffeescript, nginx, groovy 
-and grails.  
-
-<p>My ideal position would include 25% development time and 75% 
-management/leadership. I have experience managing up to five developers 
-(not including offshore) and would be interested in extending this 
-experience farther.
+<h3>Technical</h3>
+<p>I am a programmer who has worked in the Twin Cities area for over twelve years with dozens of companies on a variety of projects and technologies.
+<p>My core experience is with Java as well as Groovy, Grails, Clojure, the Microsoft stack (C#/WPF/XAML), Redis, CoffeeScript, NodeJS, PHP, ActionScript/Flex, Cold Fusion, Python and more.
+<p>I have 'full stack' experience with building web applications from the ground up, this includes vps setup, database design, application design, UI design, implementation, build execution and deployment.
+<p>I primarily use Vim for development and my distro of choice was crunchbang (Openbox!) but I'm getting used to the latest iteration of Gnome & Ubuntu 13.04. The technologies I am most interested in are python, clojure, go, nodejs, redis, coffeescript, nginx, groovy and grails. 
+<p>My ideal position would include 25% development time and 75% management/leadership
+<h3>Leadership</h3>
+<p>From 2002 to 2008, in addition to working full-time I taught evening classes on design and programming for MCTC and North Hennepin's CCE departments. Career Continuing Education (CCE), is designed for people in the workforce looking to change or enhance their existing career. It would be common to have a class ranging from zero computer experience to established professionals.  
+<p>From that experience, starting with Questar I created a weekly “Training Day” and taught Java to the existing ASP/PHP developers. I continued to use my training experience at every company I worked with, most recently at Quantum by creating a Training Day for new employees to learn the complex details of Quantum's core architecture.
+<p>I am experienced at running my own small business, both selling products (UTrain) as well as contracting. This has given me insight into the challenges of meeting and setting client demands. Loosely-defined plans lead to nights of non-billable work.
+<p>Personnel Decisions International was my first experience as a SCRUM master. I managed daily standups and set expectations with the BA/QA leads. I also studied all of PDI's on-line courses; everything from Retaining & Engaging Talent to Getting Things Done.
+<h3>Personal</h3>
+<p>My hobbies include training & foster pitbulls, learning new programming languages, enjoying the Twin City bicycle paths, reading science fiction, enrolling in MOOCs and checking out the new micro-breweries.
 
 <h2>Work History</h2>
+* 2013: Learning Clojure & Go
 * 2012: Working on a product distribution application written in 
   Java / Spring / Oracle
-* 2011: Working on migrating an existing system from Tiles/Struts to 
+* 2012: Completed work on a SCORM player written in NodeJS, Redis & CoffeeScript
+* 2011: Worked on migrating an existing system from Tiles/Struts to 
 	Spring MVC/YUI
 * 2011: Working on a custom LMS system designed in Grails/JQuery
 * 2011: Completed a touch screen / locker storage unit written in 
