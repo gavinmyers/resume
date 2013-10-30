@@ -64,7 +64,7 @@ text resume: http://gavinm.com/resume.txt
 	businesses.
 
 
-<h3>Quantum Retail ~ Sr Software Developer June 2012 - Present</h3>
+<h3>Quantum Retail ~ Software Developmen Manager June 2012 - Present</h3>
 
 	Roles:
 	Implementing functionality (user interface and backend)
