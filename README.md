@@ -27,6 +27,7 @@ text resume: http://gavinm.com/resume.txt
 <p>My hobbies include training & foster pitbulls, learning new programming languages, enjoying the Twin City bicycle paths, reading science fiction, enrolling in MOOCs and checking out the new micro-breweries.
 
 <h2>Work History</h2>
+* 2014: Rewriting a SCORM engine in Clojure and making it open source
 * 2013: Learning Clojure & Go
 * 2012: Working on a product distribution application written in 
   Java / Spring / Oracle
