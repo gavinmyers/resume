@@ -68,8 +68,7 @@ text resume: http://gavinm.com/resume.txt
 <h3>Quantum Retail ~ Software Developmen Manager June 2012 - Present</h3>
 
 	Roles:
-	Implementing functionality (user interface and backend)
-	Training new employees
+	Client management, project management, technical architecture, release management, employee development
 
 	Technologies:
 	Java, Spring, Oracle, bash, linux, git
