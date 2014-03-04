@@ -7,7 +7,6 @@ gavin@gavinm.com
 blog: http://gavinm.com
 github: http://github.com/gavinmyers
 resume: http://gavinm.com/resume.doc
-text resume: http://gavinm.com/resume.txt
 </pre>
 
 <h2>Interests & Experience</h2>
