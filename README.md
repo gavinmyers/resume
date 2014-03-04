@@ -1,6 +1,6 @@
 <h1>Gavin Myers</h1>
 <pre>
-gavin@gavinm.com
+email: gavin@gavinm.com
 blog: http://gavinm.com
 github: http://github.com/gavinmyers
 resume: http://gavinm.com/resume.doc
