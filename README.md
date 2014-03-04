@@ -1,8 +1,5 @@
 <h1>Gavin Myers</h1>
 <pre>
-8474 Norway St NW
-Coon Rapids, MN 55433
-(651) 747 1181
 gavin@gavinm.com
 blog: http://gavinm.com
 github: http://github.com/gavinmyers
