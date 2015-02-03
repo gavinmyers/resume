@@ -39,22 +39,22 @@ Spring MVC/YUI
 
 <h3>Quantum Retail ~ Software Development Manager June 2012 - Present</h3>
 
-Roles:
+<h4>Roles</h4>
 Client management, project management, technical architecture, release management, employee development
 
-Technologies:
+<h4>Technologies</h4>
 Java, Spring, Oracle, bash, linux, git
 
 
 <h3>lms.io ~ Owner/Architect July 2011- Present</h3>
 
-Roles:
+<h4>Roles</h4>
 Complete system design and implementation
 
-Technologies:
+<h4>Technologies</h4>
 Linux, Groovy/Grails, NodeJS, Redis, CoffeeScript, MySQL, JQuery
 
-Overview
+<h4>Overview</h4>
 This is my own product, a modular LMS for small and medium sized 
 businesses.
 
@@ -62,7 +62,7 @@ businesses.
 <h3>Wells Fargo  ~ Lead Developer July 2011- June 2012</h3>
 
 
-Roles:
+<h4>Roles</h4>
 Implementing functionality (user interface and backend)
 Project estimating (cost, team, timeline, milestones)
 Cross department collaboration (UI Team, Architecture Team, 
@@ -70,18 +70,18 @@ Cross department collaboration (UI Team, Architecture Team,
 Training, mentoring of new technologies (Spring, SVN, YUI)
 Individual assignment 
 
-Technologies:
+<h4>Technologies</h4>
 Java, Spring MVC, YUI, WebSphere, WebLogic, WebFocus, Oracle
 
 Struts, Tiles
 
-Overview
+<h4>Overview</h4>
 This is an 18 month contract to overhaul an existing application 
 (Struts/Tiles) into new technologies (Spring MVC, YUI).
 
 <h3>PDI ~ Technical Architect / Team Lead January 2009 - July 2011</h3>
 
-Roles:
+<h4>Roles</h4>
 Implementing functionality (user interface and backend)
 Project estimating (cost, team, timeline, milestones)
 Individual assignment 
@@ -91,13 +91,13 @@ Bug Fixing / Existing System Maintenance
 Performance, Security and Usability testing
 
 
-Technologies:
+<h4>Technologies</h4>
 Java, JSPs, Servlets, Flex, Groovy, MySQL, Oracle, Hibernate
 
 Secondary
 MS SQL, ASP, JQuery, Flash, SCORM and php
 
-Overview
+<h4>Overview</h4>
 The primary application was a traditional 'Pure Java' architecture 
 using BlazeDS to send Java objects to a Flex interface. Groovy was 
 used to generate reports and for business logic. This architecture 
@@ -112,16 +112,16 @@ multitude of technologies.
 <h3>Factor_UE ~ Technical Architect November 2006 - November 2008</h3>
 
 
-Roles:
+<h4>Roles</h4>
 Implementing functionality (user interface and backend)
 Project estimating (cost, team, timeline, milestones)
 Training, mentoring of new technologies (Flex, WPF, WCF)
 
 
-Technologies:
+<h4>Technologies</h4>
 Flex, WPF, Java, XAML, C#, Prototype.js, JQuery, YUI, Flash
 
-Overview
+<h4>Overview</h4>
 All products were client driven and designed from the ground up. 
 Notable projects include a Pharmacy Application (WPF), Store 
 Management Utility (Flex), Interface Designer (Flex), Employee 
@@ -140,27 +140,24 @@ Desktop Application (.NET 2.0, C#)
 
 <h2>Consulting, Part-Time Positions & Volunteer Work</h2>
 
-Last Call
+<h4>Last Call</h4>
 	Java, JQuery
 
-Rollouts
+<h4>Rollouts</h4>
 	Cold  Fusion, ASP, MS SQL, ASP.NET, WPF, WCF, XAML
 
-
-Secure Tunnel
+<h4>Secure Tunnel</h4>
 	C#, Flex, .NET 2.0
 
-
-Knutson Construction
+<h4>Knutson Construction</h4>
 	Cold Fusion, ASP, MS SQL
 
 
-North Hennepin Community College  -  Career Continuing Education
+<h4>North Hennepin Community College  -  Career Continuing Education</h4>
 	(Teaching) Illustrator, Photoshop, HTML, CSS, Flash, 
 	Web Design Fundamentals, Dreamweaver, Usability
 
-
-MCTC  -  Career Continuing Education
+<h4>MCTC  -  Career Continuing Education</h4>
 	(Teaching) Illustrator, Photoshop, HTML, CSS, Flash, 
 	Web Design Fundamentals, Dreamweaver, Usability
 
@@ -174,7 +171,7 @@ Wireless Ronin, Zip Express, AlivePromo, and IACA
 
 <h2>Education</h2>
 
-Globe College September 1999 - September 2002
+<h4>Globe College September 1999 - September 2002</h4>
 	Degree:
 	Multimedia / Computer Graphics Diploma
 	GPA: 3.64
