@@ -3,7 +3,7 @@
 email: gavin@gavinm.com
 blog: http://gavinm.com
 github: http://github.com/gavinmyers
-resume: http://gavinm.com/resume.doc
+resume: https://github.com/gavinmyers/resume/edit/master/README.md
 </pre>
 
 <h2>Interests & Experience</h2>
@@ -257,7 +257,7 @@ resume: http://gavinm.com/resume.doc
 
 <h2>Education</h2>
 	
-	Globe College September 1999 â€“ September 2002
+	Globe College September 1999 - September 2002
 		Degree:
 		Multimedia / Computer Graphics Diploma
 		GPA: 3.64
