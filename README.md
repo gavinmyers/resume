@@ -35,6 +35,16 @@ github: http://github.com/gavinmyers
 
 <h2>Employment History</h2>
 
+
+<h3>Quantum Retail ~ Software Developmen Manager June 2012 - Present</h3>
+
+	Roles:
+	Client management, project management, technical architecture, release management, employee development
+
+	Technologies:
+	Java, Spring, Oracle, bash, linux, git
+	
+
 <h3>lms.io ~ Owner/Architect July 2011- Present</h3>
 
 	Roles:
@@ -46,15 +56,7 @@ github: http://github.com/gavinmyers
 	Overview
 	This is my own product, a modular LMS for small and medium sized 
 	businesses.
-
-
-<h3>Quantum Retail ~ Software Developmen Manager June 2012 - Present</h3>
-
-	Roles:
-	Client management, project management, technical architecture, release management, employee development
-
-	Technologies:
-	Java, Spring, Oracle, bash, linux, git
+	
 
 <h3>Wells Fargo  ~ Lead Developer July 2011- June 2012</h3>
 
