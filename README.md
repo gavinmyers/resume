@@ -130,83 +130,11 @@ github: http://github.com/gavinmyers
 	Desktop Application (.NET 2.0, C#)
 
 
-<h3>Questar ~ Senior Developer October 2005 - November 2006</h3>
-	
-	Roles:
-	Bug Fixing / Existing System Maintenance
-	Implementing functionality (user interface and backend)
-	Training, mentoring of new technologies (Java)
-
-	Technologies:
-	Java, Hibernate, JSP, MS SQL
-
-	ASP
-
-	Overview
-	Worked with a team to develop a replacement for their existing asp 
-	based survey management utility in Java.
-
-
-
-
-<h3>US Corporate Services ~ Senior Developer April 2003 - October 2005</h3>
-
-	Roles:
-	Implementing functionality (user interface and backend)
-	Bug Fixing / Existing System Maintenance
-	Project estimating (cost, team, timeline, milestones)
-
-
-	Technologies:
-	Cold Fusion, MS SQL
-
-	ASP, C#, Access
-
-	Overview
-	Worked as the sole developer for a small company maintaining and 
-	enhancing their primary customer service application suite.
-
-
+<h3>Questar ~ Senior Java Developer October 2005 - November 2006</h3>
+<h3>US Corporate Services ~ Senior ColdfusionDeveloper April 2003 - October 2005</h3>
 <h3>Yatra.net ~ Web Developer / Designer January 2001 - March 2003</h3>
-
-	Roles:
-	Bug Fixing / Existing System Maintenance
-	Implementing functionality (user interface and backend)
-
-	Technologies:
-	Java, JSP, XSL, Servlets, Oracle
-
-	Overview
-	Worked with a team of developers for the Yatra.net air/car/hotel 
-	booking website.
-
-
 <h3>Lightning Rod Software ~ Web Developer / Designer July 2000  - January 2001</h3>
-
-	Roles:
-	Implementing functionality (user interface and backend)
-
-	Technologies:
-	Cold  Fusion, MS SQL
-
-	Overview
-	Designed the Lightning Rod Software website
-
-
 <h3>Access Cash ~ Web Developer / Designer August 1998  - June 2000</h3>
-
-	Roles:
-	Implementing functionality (user interface and backend)
-	Design ATM Screens
-
-	Technologies:
-	Cold  Fusion, ASP, MS SQL, DB2, Foxpro
-
-	Overview
-	Designed the main Access Cash website, designed ATM "idle" screens, 
-	created their intranet reporting utility
-
-
 
 <h2>Consulting, Part-Time Positions & Volunteer Work</h2>
 	
