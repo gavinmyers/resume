@@ -29,11 +29,7 @@ github: http://github.com/gavinmyers
 <li> 2012: Completed work on a SCORM player written in NodeJS, Redis & CoffeeScript
 <li> 2011: Worked on migrating an existing system from Tiles/Struts to 
 	Spring MVC/YUI
-<li> 2011: Working on a custom LMS system designed in Grails/JQuery
-<li> 2011: Completed a touch screen / locker storage unit written in 
-	Java/JQuery
-<li> 2010: Completed work on an assessment/development management application 
-	written in Flex/Java/Hibernate/Spring
+
 </ul>
 <div style="page-break-after: always;"></div>
 <h2>Employment History</h2>
