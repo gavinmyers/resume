@@ -9,16 +9,12 @@ github: http://github.com/gavinmyers
 
 <h3>Technical</h3>
 <p>I am a programmer who has worked in the Twin Cities area since 1999 with dozens of companies on a variety of projects and technologies.
-<p>My core experience is with Java as well as Groovy, Grails, Clojure, the Microsoft stack (C#/WPF/XAML), Redis, CoffeeScript, NodeJS, PHP, ActionScript/Flex, Cold Fusion, Python and more.
-<p>I have 'full stack' experience with building web applications from the ground up, this includes vps setup, database design, application design, UI design, implementation, build execution and deployment.
-<p>I primarily use Vim for development and my distro of choice was crunchbang (Openbox!) but I'm getting used to the latest iteration of Gnome & Ubuntu 13.04. The technologies I am most interested in are python, clojure, go, nodejs, redis, coffeescript, nginx, groovy and grails. 
+<p>My core experience is Java. I've also developed applications in Groovy, Grails, Clojure, the Microsoft stack (C#/WPF/XAML), Redis, CoffeeScript, NodeJS, PHP, ActionScript/Flex, Cold Fusion, Python and more.
 <p>My ideal position would include 25% development time and 75% management/leadership
 <div style="page-break-after: always;"></div>
 <h3>Leadership</h3>
-<p>From 2002 to 2008, in addition to working full-time I taught evening classes on design and programming for MCTC and North Hennepin's CCE departments. Career Continuing Education (CCE) is designed for people in the workforce looking to change or enhance their existing career. It would be common to have individuals ranging from zero computer experience to established professionals.  
-<p>From that experience, starting with Questar I created a weekly “Training Day” and taught Java to the existing ASP/PHP developers. I continued to use my training experience at every company I worked with, most recently at Quantum by creating a Training Day for new employees to learn the complex details of Quantum's core architecture.
-<p>I am experienced at running my own small business, both selling products (UTrain) as well as contracting. This has given me insight into the challenges of meeting and setting client demands. Loosely-defined plans lead to nights of non-billable work.
-<p>Personnel Decisions International was my first experience as a SCRUM master. I managed daily standups and set expectations with the BA/QA leads. I also studied all of PDI's on-line courses; everything from Retaining & Engaging Talent to Getting Things Done.
+<p>At Quantum Retail I'm responsible for managing a team of eight Java developers.
+<p>I am experienced at running my own small business, both selling my own product (lms.io) and building products for others
 <h3>Personal</h3>
 <p>My hobbies include training & foster pitbulls, learning new programming languages, enjoying the Twin City bicycle paths, reading science fiction, enrolling in MOOCs and checking out the new micro-breweries.
 
@@ -36,17 +32,6 @@ github: http://github.com/gavinmyers
 	Java/JQuery
 <li> 2010: Completed work on an assessment/development management application 
 	written in Flex/Java/Hibernate/Spring
-<li> 2009: Completed work on a technician dispatching system written in 
-	WPF / .NET 3.5
-<li> 2008: Completed work on a workflow management application written in 
-	Adobe Air
-<li> 2008: Completed development of a SSH application written in 
-	C# / .NET 2.0
-<li> 2008: Completed prototype of a WPF based pharmacy application
-<li> 2008: Completed development on job application kiosk written in 
-	JSP / Java
-<li> 2007: Completed development of building maintenance touch screen written 
-	in Ajax/Flash/DHTML/C++
 </ul>
 <div style="page-break-after: always;"></div>
 <h2>Employment History</h2>
