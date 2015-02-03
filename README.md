@@ -10,7 +10,7 @@ resume (pdf): https://gitprint.com/gavinmyers/resume/blob/master/README.md
 <h2>Interests & Experience</h2>
 
 <h3>Technical</h3>
-<p>I am a programmer who has worked in the Twin Cities area for over twelve years with dozens of companies on a variety of projects and technologies.
+<p>I am a programmer who has worked in the Twin Cities area since 1999 with dozens of companies on a variety of projects and technologies.
 <p>My core experience is with Java as well as Groovy, Grails, Clojure, the Microsoft stack (C#/WPF/XAML), Redis, CoffeeScript, NodeJS, PHP, ActionScript/Flex, Cold Fusion, Python and more.
 <p>I have 'full stack' experience with building web applications from the ground up, this includes vps setup, database design, application design, UI design, implementation, build execution and deployment.
 <p>I primarily use Vim for development and my distro of choice was crunchbang (Openbox!) but I'm getting used to the latest iteration of Gnome & Ubuntu 13.04. The technologies I am most interested in are python, clojure, go, nodejs, redis, coffeescript, nginx, groovy and grails. 
