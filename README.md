@@ -36,6 +36,7 @@ github: http://github.com/gavinmyers
 <h2>Employment History</h2>
 
 <h3>lms.io ~ Owner/Architect July 2011- Present</h3>
+
 	Roles:
 	Complete system design and implementation
 
