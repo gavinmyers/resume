@@ -130,11 +130,13 @@ github: http://github.com/gavinmyers
 	Desktop Application (.NET 2.0, C#)
 
 <h3>Experience Continued</h3>
-<h4>Questar ~ Senior Java Developer October 2005 - November 2006</h4>
-<h4>US Corporate Services ~ Senior ColdfusionDeveloper April 2003 - October 2005</h4>
-<h4>Yatra.net ~ Web Developer / Designer January 2001 - March 2003</h4>
-<h4>Lightning Rod Software ~ Web Developer / Designer July 2000  - January 2001</h4>
-<h4>Access Cash ~ Web Developer / Designer August 1998  - June 2000</h4>
+<ul>
+<li>Questar ~ Senior Java Developer October 2005 - November 2006</li>
+<li>US Corporate Services ~ Senior ColdfusionDeveloper April 2003 - October 2005</li>
+<li>Yatra.net ~ Web Developer / Designer January 2001 - March 2003</li>
+<li>Lightning Rod Software ~ Web Developer / Designer July 2000  - January 2001</li>
+<li>Access Cash ~ Web Developer / Designer August 1998  - June 2000</li>
+</ul>
 
 <h2>Consulting, Part-Time Positions & Volunteer Work</h2>
 	
