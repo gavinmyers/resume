@@ -7,14 +7,16 @@ github: http://github.com/gavinmyers
 
 <h2>Interests & Experience</h2>
 
-<h3>Technical</h3>
-<p>I am a programmer who has worked in the Twin Cities area since 1999 with dozens of companies on a variety of projects and technologies.
-<p>My core experience is Java. I've also developed applications in Groovy, Grails, Clojure, the Microsoft stack (C#/WPF/XAML), Redis, CoffeeScript, NodeJS, PHP, ActionScript/Flex, Cold Fusion, Python and more.
-<p>My ideal position would include 25% development time and 75% management/leadership
-
 <h3>Leadership</h3>
 <p>At Quantum Retail I'm responsible for managing a team of eight Java developers.
 <p>I am experienced at running my own small business, both selling my own product (lms.io) and building products for others
+<p>My ideal position would include 25% development time and 75% management/leadership
+
+<h3>Technical</h3>
+<p>I am a programmer who has worked in the Twin Cities area since 1999 with dozens of companies on a variety of projects and technologies.
+<p>My core experience is Java. I've also developed applications in Groovy, Grails, Clojure, the Microsoft stack (C#/WPF/XAML), Redis, CoffeeScript, NodeJS, PHP, ActionScript/Flex, Cold Fusion, Python and more.
+
+
 <h3>Personal</h3>
 <p>My hobbies include training & foster pitbulls, learning new programming languages, enjoying the Twin City bicycle paths, reading science fiction, enrolling in MOOCs and checking out the new micro-breweries.
 
