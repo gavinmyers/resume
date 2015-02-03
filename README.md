@@ -29,9 +29,9 @@ github: http://github.com/gavinmyers
 <li> 2012: Completed work on a SCORM player written in NodeJS, Redis & CoffeeScript
 <li> 2011: Worked on migrating an existing system from Tiles/Struts to 
 	Spring MVC/YUI
-
 </ul>
 <div style="page-break-after: always;"></div>
+
 <h2>Employment History</h2>
 
 <h3>lms.io ~ Owner/Architect July 2011- Present</h3>
