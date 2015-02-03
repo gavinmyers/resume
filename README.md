@@ -37,7 +37,7 @@ github: http://github.com/gavinmyers
 <h2>Employment History</h2>
 
 
-<h3>Quantum Retail ~ Software Developmen Manager June 2012 - Present</h3>
+<h3>Quantum Retail ~ Software Development Manager June 2012 - Present</h3>
 
 	Roles:
 	Client management, project management, technical architecture, release management, employee development
@@ -98,13 +98,13 @@ github: http://github.com/gavinmyers
 	MS SQL, ASP, JQuery, Flash, SCORM and php
 
 	Overview
-	The primary application was a traditional â€œPure Javaâ€ architecture 
+	The primary application was a traditional 'Pure Java' architecture 
 	using BlazeDS to send Java objects to a Flex interface. Groovy was 
 	used to generate reports and for business logic. This architecture 
 	was designed to support Spring MVC although it was never 
 	implemented.
 
-	In addition there were several â€œsatelliteâ€ applications that ran a 
+	In addition there were several applications that ran a 
 	multitude of technologies.
 
 
