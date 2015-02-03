@@ -3,8 +3,6 @@
 email: gavin@gavinm.com
 blog: http://gavinm.com
 github: http://github.com/gavinmyers
-resume (html): https://github.com/gavinmyers/resume/edit/master/README.md
-resume (pdf): https://gitprint.com/gavinmyers/resume/blob/master/README.md
 </pre>
 
 <h2>Interests & Experience</h2>
