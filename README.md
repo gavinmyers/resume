@@ -129,7 +129,7 @@ github: http://github.com/gavinmyers
 	Touchscreen (Javascript, ajax, rest) and Building Maintenance 
 	Desktop Application (.NET 2.0, C#)
 
-<h3>Experience Continued</h3>
+<h3>Complete Employment History</h3>
 <ul>
 <li>Questar ~ Senior Java Developer October 2005 - November 2006</li>
 <li>US Corporate Services ~ Senior ColdfusionDeveloper April 2003 - October 2005</li>
