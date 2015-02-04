@@ -166,7 +166,8 @@ Desktop Application (.NET 2.0, C#)
 Target, Trane, Carlson Wagonlit, Carmichael Lynch, 
 Dashe & Thomson, Fisher Clinical Services, Meteorlogix, Pacer, CSC, 
 Benchmark QA, Blue Cross and Blue Shield of Minnesota, GE, 
-Wireless Ronin, Zip Express, AlivePromo, and IACA
+Wireless Ronin, Zip Express, AlivePromo, IACA,
+Four51, APi Group, and Imation
 
 
 <h2>Education</h2>
