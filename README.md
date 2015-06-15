@@ -22,12 +22,14 @@ github: http://github.com/gavinmyers
 <h3>Personal</h3>
 <p>My hobbies include training & foster pitbulls, learning new programming languages, enjoying the Twin City bicycle paths, reading science fiction, enrolling in MOOCs and checking out the new micro-breweries.
 
-<h2>Work History</h2>
+<h2>Recent Activity</h2>
 <ul>
+<li> 2015: Learning Hadoop, Dart & Lua
+<li> 2015: Rewrote an application using Handlebars, JQuery & Spring
 <li> 2014: Rewriting a SCORM engine in Clojure and making it open source
 <li> 2013: Learning Clojure & Go
 <li> 2012: Working on a product distribution application written in 
-Java / Spring / Oracle
+Java, Spring & Oracle
 <li> 2012: Completed work on a SCORM player written in NodeJS, Redis & CoffeeScript
 <li> 2011: Worked on migrating an existing system from Tiles/Struts to 
 Spring MVC/YUI
