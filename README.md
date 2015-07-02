@@ -31,8 +31,6 @@ github: http://github.com/gavinmyers
 <li> 2012: Working on a product distribution application written in 
 Java, Spring & Oracle
 <li> 2012: Completed work on a SCORM player written in NodeJS, Redis & CoffeeScript
-<li> 2011: Worked on migrating an existing system from Tiles/Struts to 
-Spring MVC/YUI
 </ul>
 <div style="page-break-after: always;"></div>
 
