@@ -16,7 +16,7 @@ github: http://github.com/gavinmyers
 
 <h3>Technical</h3>
 <p>I am a programmer who has worked in the Twin Cities area since 1999 with dozens of companies on a variety of projects and technologies.
-<p>My core experience is Java. I've also developed applications in Groovy, Grails, Clojure, the Microsoft stack (C#/WPF/XAML), Redis, CoffeeScript, NodeJS, PHP, ActionScript/Flex, Cold Fusion, Python and more.
+<p>My core experience is Java. I've also developed applications in Python, Groovy, Grails, Clojure, the Microsoft stack (C#/WPF/XAML), Redis, CoffeeScript, NodeJS, PHP, ActionScript/Flex, Cold Fusion and more.
 
 
 <h3>Personal</h3>
@@ -24,6 +24,7 @@ github: http://github.com/gavinmyers
 
 <h2>Recent Activity</h2>
 <ul>
+<li> 2015: Building an open source application using Python and Cassandra
 <li> 2015: Learning Hadoop, Dart & Lua
 <li> 2015: Rewrote an application using Handlebars, JQuery & Spring
 <li> 2014: Rewriting a SCORM engine in Clojure and making it open source
@@ -40,10 +41,10 @@ Java, Spring & Oracle
 <h3>Quantum Retail ~ Software Development Manager June 2012 - Present</h3>
 
 <h6>Roles</h6>
-Client management, project management, technical architecture, release management, employee development
+Software development, Client management, project management, technical architecture, release management, employee development
 
 <h6>Technologies</h6>
-Java, Spring, Oracle, bash, linux, git
+Java, Spring, Oracle, linux, git, handlebars, jquery, bootstrap
 
 
 <h3>lms.io ~ Owner/Architect July 2011- Present</h3>
