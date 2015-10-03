@@ -25,10 +25,9 @@ github: http://github.com/gavinmyers
 <h2>Recent Activity</h2>
 <ul>
 <li> 2015: Building an open source application using Python and Cassandra
-<li> 2015: Learning Hadoop, Dart & Lua
 <li> 2015: Rewrote an application using Handlebars, JQuery & Spring
 <li> 2014: Rewriting a SCORM engine in Clojure and making it open source
-<li> 2013: Learning Clojure & Go
+<li> 2013: Built a small blog in Go
 <li> 2012: Working on a product distribution application written in 
 Java, Spring & Oracle
 <li> 2012: Completed work on a SCORM player written in NodeJS, Redis & CoffeeScript
