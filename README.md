@@ -24,7 +24,7 @@ github: http://github.com/gavinmyers
 
 <h2>Recent Activity</h2>
 <ul>
-<li> 2015: Building an open source application using Python and Cassandra
+<li> 2015: Building an open source application using React, Python and Cassandra
 <li> 2015: Rewrote an application using Handlebars, JQuery & Spring
 <li> 2014: Rewriting a SCORM engine in Clojure and making it open source
 <li> 2013: Built a small blog in Go
@@ -36,8 +36,15 @@ Java, Spring & Oracle
 
 <h2>Employment History</h2>
 
+<h3>Target ~ Software Development Manager January 2016 - Present</h3>
 
-<h3>Quantum Retail ~ Software Development Manager June 2012 - Present</h3>
+<h6>Roles</h6>
+tbd
+
+<h6>Technologies</h6>
+tbd
+
+<h3>Quantum Retail ~ Software Development Manager June 2012 - December 2015</h3>
 
 <h6>Roles</h6>
 Software development, Client management, project management, technical architecture, release management, employee development
