@@ -36,7 +36,8 @@ Java, Spring & Oracle
 
 <h2>Employment History</h2>
 
-<h3>Target ~ Software Development Manager January 2016 - Present</h3>
+<h3>Target ~ Software Development Manager</h3>
+<em>January 2016 - Present</em>
 
 <h6>Roles</h6>
 tbd
@@ -44,7 +45,8 @@ tbd
 <h6>Technologies</h6>
 tbd
 
-<h3>Quantum Retail ~ Software Development Manager June 2012 - December 2015</h3>
+<h3>Quantum Retail ~ Software Development Manager</h3>
+<em>June 2012 - December 2015</em>
 
 <h6>Roles</h6>
 Software development, Client management, project management, technical architecture, release management, employee development
@@ -53,7 +55,8 @@ Software development, Client management, project management, technical architect
 Java, Spring, Oracle, linux, git, handlebars, jquery, bootstrap
 
 
-<h3>lms.io ~ Owner/Architect July 2011- Present</h3>
+<h3>lms.io ~ Owner/Architect </h3>
+<em>July 2011- Present</em>
 
 <h6>Roles</h6>
 Complete system design and implementation
@@ -66,8 +69,8 @@ This is my own product, a modular LMS for small and medium sized
 businesses.
 
 
-<h3>Wells Fargo  ~ Lead Developer July 2011- June 2012</h3>
-
+<h3>Wells Fargo  ~ Lead Developer </h3>
+<em>July 2011- June 2012</em>
 
 <h6>Roles</h6>
 Implementing functionality (user interface and backend)
@@ -86,7 +89,8 @@ Struts, Tiles
 This is an 18 month contract to overhaul an existing application 
 (Struts/Tiles) into new technologies (Spring MVC, YUI).
 
-<h3>PDI ~ Technical Architect / Team Lead January 2009 - July 2011</h3>
+<h3>PDI ~ Technical Architect / Team Lead</h3>
+<em> January 2009 - July 2011</em>
 
 <h6>Roles</h6>
 Implementing functionality (user interface and backend)
@@ -116,8 +120,8 @@ multitude of technologies.
 
 
 
-<h3>Factor_UE ~ Technical Architect November 2006 - November 2008</h3>
-
+<h3>Factor_UE ~ Technical Architect </h3>
+<em>November 2006 - November 2008</em>
 
 <h6>Roles</h6>
 Implementing functionality (user interface and backend)
